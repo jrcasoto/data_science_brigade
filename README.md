@@ -1,4 +1,18 @@
-# data_science_brigade
+# Exploratory analysis with Rio Grande do Sul's town hall expenses for detecting fraudulent purchases (with Python and NLP)
+
+
+Hi there!
+
+For this analysis, I've divided my studies into three main jupyter notebooks (Analise_1_TCE-RS, Analise_2_TCE-RS and Analise_3_TCE-RS, respectively) containing analysis from all city's purchaces (licitacao.csv) and all registered items (item.csv) from 2016 to 2021. I've focused mainly on these two files only for a brief exploratory analysis and I've let my considerations and conclusions available inside the notebooks through my discorery process.
+
+The entire analysis dured only 48 hours, but if I had more time I would definitely improve the following points:
+  1. Since we're working with large datasets, I would've created a Entity–relationship model with the provided databases and search all data with SQL queries for time improvement;
+  2. Create/implement a classification/clustering model with NLP to organise purchases descriptions in a more concise way, since we're working with chunks of text - creating a K-Means/Naive Bayes classifier would be a good starting point;
+  3. Create more predictive analysis (tendency and seasonality analysis) from purchases by organ with a linear regression model;
+
+Hope y'all enjoy :smile:
+
+---
 
 Olá!
 
